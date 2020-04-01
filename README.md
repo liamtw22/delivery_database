@@ -7,7 +7,7 @@
 ![alt text](https://github.com/liamtw22/delivery_database/blob/master/images/2020-04-01.png "ER Diagram")
 
 ### Schema Representation
-![alt text]https://github.com/liamtw22/delivery_database/blob/master/images/2020-04-01%20(1).png "Schema")
+![alt text](https://github.com/liamtw22/delivery_database/blob/master/images/2020-04-01%20(1).png "Schema")
 
 
 
