@@ -1,7 +1,5 @@
-<p align="center">
-<h1> Food Delivery Database</h1>
-<h2> Principles of Database Systems Final Project</h2>
-</p>
+<h1 align="center"> Food Delivery Database</h1>
+<h2 align="center"> Principles of Database Systems Final Project</h2>
 
 ### Use Instructions
 
