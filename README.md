@@ -1,6 +1,7 @@
-# Food Delivery Database
-## H2 Principles of Database Systems Final Project
-
+<p align="center">
+<h1> Food Delivery Database</h1>
+<h2> Principles of Database Systems Final Project </h2>
+</p>
 ### H3 Use Instructions
 
 ### H3 Database ER Diagram
