@@ -4,7 +4,7 @@
 ### Use Instructions
 
 ### Database ER Diagram
-![alt text](https://github.com/liamtw22/delivery_database/blob/master/images/ER%Diagram.png "ER Diagram")
+![alt text](https://github.com/liamtw22/delivery_database/blob/master/images/ER%20Diagram.png "ER Diagram")
 
 ### Schema Representation
 ![alt text](https://github.com/liamtw22/delivery_database/blob/master/images/Schema.png "Schema")
