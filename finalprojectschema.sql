@@ -68,6 +68,6 @@ deliverdriverid     number(4),
 tip  varchar2(7),
 timeest varchar2(5) not null,
 primary key (delivercustomerid, deliverdriverid),
-foreign key (delivercustomerid) references customer(customerid)
+foreign key (delivercustomerid) references customer(customerid),
 foreign key (deliverdriverid) references driver(driverid)
 );
