@@ -1,3 +1,5 @@
+/*Eimear Quinlan*/
+
 INSERT INTO CUSTOMER  VALUES(1679,'Joshua','Little','2675683967','5580 Vestibulum Street');
 INSERT INTO CUSTOMER  VALUES(1691,'Blaze','Diaz','215867395','9108 Ac Road');
 INSERT INTO CUSTOMER  VALUES(4240,'Lars','Herrera','445869307','307-4502 Odio. Ave');
