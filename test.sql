@@ -1,5 +1,3 @@
-/*Liam Walsh*/
-
 /*Customer Registration*/
 INSERT INTO CUSTOMER  VALUES(8947,'Robert','Jefferson','2156830180','410 Avonwood Rd.');
 INSERT INTO PAYMENT VALUES(8947, 'Bank of America', '3659165927591158');
