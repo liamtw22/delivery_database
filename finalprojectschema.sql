@@ -1,3 +1,5 @@
+/*Liam Walsh*/
+
 DROP TABLE customer CASCADE CONSTRAINTS;
 CREATE TABLE customer (
 customerid number(4),
